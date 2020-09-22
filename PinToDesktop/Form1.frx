@@ -1,0 +1,9 @@
+ÿPin to desktop or Stick to desktop sample
+
+- This sample code will pin or stick the application to the desktop.
+
+- So, it won't be minimized when WinKey+D or WinKey+M is pressed.
+
+- It's almost a desktop icon.
+
+- In addition, it's not necessary that Active Desktop is on.
